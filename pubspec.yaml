@@ -1,0 +1,20 @@
+name: env_config
+description: "A new Flutter project."
+version: 0.0.1
+homepage: https://github.com/pkozlovskiy/env_config
+
+environment:
+  sdk: '>=3.2.6 <4.0.0'
+  flutter: ">=1.17.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  shared_preferences: ^2.2.2
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  test:
+
+  flutter_lints: ^2.0.0
