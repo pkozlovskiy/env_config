@@ -1,5 +1,5 @@
 name: env_config
-description: "A new Flutter project."
+description: "Control your environment variables"
 version: 0.0.1
 homepage: https://github.com/pkozlovskiy/env_config
 
